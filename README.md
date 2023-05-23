@@ -1,4 +1,4 @@
-# Projeto-Iniciante-Front 01
+# Projeto-Iniciante-Front-01
 O Projeto aqui é do nível Iniciante, utilizando HTML/CSS
 
 <div style="display: inline-block;"><br>
